@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\BirthdayReminder\BirthdayReminder\bin\Debug\BirthdayReminder.exe.config
+C:\Users\User\source\repos\BirthdayReminder\BirthdayReminder\bin\Debug\BirthdayReminder.exe
+C:\Users\User\source\repos\BirthdayReminder\BirthdayReminder\bin\Debug\BirthdayReminder.pdb
+C:\Users\User\source\repos\BirthdayReminder\BirthdayReminder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\BirthdayReminder\BirthdayReminder\obj\Debug\BirthdayReminder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BirthdayReminder\BirthdayReminder\obj\Debug\BirthdayReminder.csproj.CopyComplete
+C:\Users\User\source\repos\BirthdayReminder\BirthdayReminder\obj\Debug\BirthdayReminder.exe
+C:\Users\User\source\repos\BirthdayReminder\BirthdayReminder\obj\Debug\BirthdayReminder.pdb
+C:\Users\User\source\repos\BirthdayReminder\BirthdayReminder\obj\Debug\BirthdayReminder.csproj.AssemblyReference.cache
